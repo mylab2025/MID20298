@@ -4,7 +4,7 @@
       "MaterialTitle": {
         "Name": "ESP-12F WiFi Module",
         "PN": "ESP-12F",
-        "MF": "AI-THINKER"
+        "MF": "DOITING"
       },
       "MID": "MID20298",
       "MD": "Operation Voltage 3.0V ~ 3.6VˈTypical 3.3VˈOperation Current >500mA (Peak), 80mA (Typ)\r\nThe ESP-12F WiFi module was developed by Ai-Thinker Technology. The core processor\r\nESP8266 integrates the industry-leading Tensilica L106 ultra-low-power 32-bit micro MCU in\r\na small package with 16-bit Lite mode, clocked at Supports 80 MHz and 160 MHz, supports\r\nRTOS, and integrates Wi-Fi MAC/BB/RF/PA/LNA. || Location: TBA\r\n",
@@ -20,10 +20,7 @@
       "MAF4": "",
       "MAF5": "",
       "MR": "",
-      "MaterialImages": [
-        "https://raw.githubusercontent.com/mylab2025/MID20298/main/WhatsApp Image 2025-06-30 at 6.34.19 PM.jpeg",
-        "https://raw.githubusercontent.com/mylab2025/MID20298/main/WhatsApp Image 2025-06-30 at 6.34.19 PM (1).jpeg"
-      ]
+      "MaterialImages": []
     }
   ]
 }
